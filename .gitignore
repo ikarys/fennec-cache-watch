@@ -1,0 +1,5 @@
+__pycache__/
+mcp_bench/base.json
+mcp_bench/mcp_tools.json
+*.jsonl
+*.log
